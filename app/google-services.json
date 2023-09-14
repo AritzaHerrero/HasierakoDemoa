@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104121125439",
+    "project_id": "froga-b18d7",
+    "storage_bucket": "froga-b18d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104121125439:android:9e3d01bfac0fb2257c468a",
+        "android_client_info": {
+          "package_name": "com.talde3.hasierakodemoa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3fq1GChsW-YoOjBZH1Drzk5-UEiA0nd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
